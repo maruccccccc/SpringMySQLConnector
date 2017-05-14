@@ -1,0 +1,2 @@
+# SpringMySQLConnector
+Spring Frameworkを使ってMySQL-DBにつなぐとかそういうやつのサンプル
